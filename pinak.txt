@@ -1,3 +1,8 @@
 ##This is a sample txt file
 
-##Middleware scripts will be writted later
+##Middleware scripts will be added later
+
+1. Create domain
+2. Add domain script
+3. Add servers
+4. Create clusters
